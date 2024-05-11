@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.bg-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-sm-bg.png');
+  height: auto;
+  background-size: cover;
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  opacity: 0.5;
+}
+.title-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.app-logo {
+  height: 200px;
+  width: 90px;
+}
+.heading {
+  font-family: bree serif;
+  font-size: 170px;
+  font-weight: bold;
+  color: #ffffff;
+}
